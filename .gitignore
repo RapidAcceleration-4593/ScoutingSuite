@@ -1,5 +1,9 @@
 # VS Code files
 .vscode/
 
-# Virtual Enviornment files
+# Python virtual enviornment files
 .venv/
+
+# Python cache files
+__pycache__/
+*.pyc
